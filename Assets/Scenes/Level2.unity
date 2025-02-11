@@ -524,21 +524,76 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 135882755945849290, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.96131575
+      objectReference: {fileID: 0}
+    - target: {fileID: 135882755945849290, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.27544886
+      objectReference: {fileID: 0}
+    - target: {fileID: 135882755945849290, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.0000000842937
+      objectReference: {fileID: 0}
+    - target: {fileID: 135882755945849290, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000000021073426
+      objectReference: {fileID: 0}
     - target: {fileID: 189670632283352735, guid: 30237ae697c15f1479fabe3c3c1c64e0,
         type: 3}
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 959919389}
+    - target: {fileID: 189670632283352735, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 2431
+      objectReference: {fileID: 0}
     - target: {fileID: 257037130962940490, guid: 30237ae697c15f1479fabe3c3c1c64e0,
         type: 3}
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 2116865445}
+    - target: {fileID: 257037130962940490, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 6449
+      objectReference: {fileID: 0}
+    - target: {fileID: 1535814414280385409, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_BackGroundColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1535814414280385409, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1535814414280385409, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1535814414280385409, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2020400548398406518, guid: 30237ae697c15f1479fabe3c3c1c64e0,
         type: 3}
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 514713944}
+    - target: {fileID: 2020400548398406518, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 6449
+      objectReference: {fileID: 0}
     - target: {fileID: 2491338813531841542, guid: 30237ae697c15f1479fabe3c3c1c64e0,
         type: 3}
       propertyPath: m_Mesh
@@ -569,6 +624,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1427694106}
+    - target: {fileID: 6222250951853586322, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 6449
+      objectReference: {fileID: 0}
     - target: {fileID: 6643040666393396168, guid: 30237ae697c15f1479fabe3c3c1c64e0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -634,6 +694,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1223992417}
+    - target: {fileID: 8748205540962358425, guid: 30237ae697c15f1479fabe3c3c1c64e0,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 6449
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
